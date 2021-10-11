@@ -2,7 +2,7 @@
 Issue tracker page for Studio Manager Desktop and Mobile applications.
 
 
-Version: Atom-1.0.0.9
+# Version: Atom-1.0.0.9
 
 Release Date: 30/09/21
 
@@ -32,7 +32,7 @@ New Features
 
 Release Notes:
 
-Version: Atom-1.0.0.8
+# Version: Atom-1.0.0.8
 
 New Features:
 ------------
