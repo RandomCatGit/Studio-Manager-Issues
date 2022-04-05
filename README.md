@@ -25,12 +25,6 @@ Release Date: 01/12/21
 
 Release Date: 04/11/21
 
-We are happy to announce our new domain:
-
-http://catleaplabs.com/
-
-Visit our website to see new features added such as full product demo video.
-
 New Features:
 
 [+] Session logs are now visible to normal users other than ADMIN and OWNER. Their sessios are filtered by default and cannot see cost or perform other operations. Total time of session is only visible to normal users.
@@ -55,10 +49,15 @@ New Features:
 Bug Fixes:
 
 [+] Fixed an issue with ADMIN shared projects where own projects won't load even if shared projects are present.
+
 [+] Fixed an issue with system info sync from offline to online transition.
+
 [+] Some timer issue with MacOS where end time is less than start time. These will be marked for fixing.
+
 [+] Shedules were mixed with other systems. Fixed an issue with database query.
+
 [+] Payment History status column was cutoff in Windows. Fixed.
+
 [+] Performance improvements
 
 
