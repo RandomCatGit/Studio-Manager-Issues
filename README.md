@@ -1,6 +1,66 @@
 # Studio-Manager-Issues
 Issue tracker page for Studio Manager Desktop and Mobile applications.
 
+# Automatic update and version information history
+
+Latest version will be updated automatically on launch. Kindly contact CatLeap Labs in case of any inquiry.
+
+
+# Version: Atom-1.0.1.2
+
+Release Date: 05/04/22
+
+[+] performance improvements
+[+] fixed issue in website error page
+
+
+# Version: Atom-1.0.1.1
+
+Release Date: 01/12/21
+
+[+] faster login/logout, session load and project loading
+
+
+# Version: Atom-1.0.1.0
+
+Release Date: 04/11/21
+
+We are happy to announce our new domain:
+
+http://catleaplabs.com/
+
+Visit our website to see new features added such as full product demo video.
+
+New Features:
+
+[+] Session logs are now visible to normal users other than ADMIN and OWNER. Their sessios are filtered by default and cannot see cost or perform other operations. Total time of session is only visible to normal users.
+
+
+# Version: Atom-1.0.1.0
+
+Release Date: 04/11/21
+
+Latest version will be updated automatically on launch. Kindly contact CatLeap Labs in case of any inquiry.
+
+We are happy to announce our new domain:
+
+http://catleaplabs.com/
+
+Visit our website to see new features added such as full product demo video.
+
+New Features:
+
+[+] Session logs are now visible to normal users other than ADMIN and OWNER. Their sessios are filtered by default and cannot see cost or perform other operations. Total time of session is only visible to normal users.
+
+Bug Fixes:
+
+[+] Fixed an issue with ADMIN shared projects where own projects won't load even if shared projects are present.
+[+] Fixed an issue with system info sync from offline to online transition.
+[+] Some timer issue with MacOS where end time is less than start time. These will be marked for fixing.
+[+] Shedules were mixed with other systems. Fixed an issue with database query.
+[+] Payment History status column was cutoff in Windows. Fixed.
+[+] Performance improvements
+
 
 # Version: Atom-1.0.0.9
 
@@ -29,8 +89,6 @@ New Features
 
 [+] Amount calculated is now rounded up. This includes GST, discounts and final amount calculated as well.
 
-
-Release Notes:
 
 # Version: Atom-1.0.0.8
 
