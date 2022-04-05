@@ -11,6 +11,7 @@ Latest version will be updated automatically on launch. Kindly contact CatLeap L
 Release Date: 05/04/22
 
 [+] performance improvements
+
 [+] fixed issue in website error page
 
 
